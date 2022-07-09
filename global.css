@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", "Noto Sans JP", sans-serif;
+}
+/* remove Firefox button focus outline */
+*:focus {
+  outline: none;
+}
+
+body {
+  line-height: 1.5;
+  color: var(--c-05);
+  background-color: var(--c-01);
+  min-width: 320px;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+.fade-in {
+  animation-name: fade-in-animation;
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+@keyframes fade-in-animation {
+  0% {
+    opacity: 0;
+  }
+  20% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* hide theme icons respectively */
+[theme="light"] .sun-icon {
+  display: none;
+}
+[theme="dark"] .moon-icon {
+  display: none;
+}
+
+/* theme colors */
+[theme="light"] {
+  --c-01: #fff;
+  --c-02: #fff;
+  --c-03: #000;
+  --c-04: #005ab4;
+  --c-05: #444;
+  --c-06: #999;
+  --c-07: #f7f8f8;
+  --c-08: #eff2f4;
+  --c-09: #b5bec4;
+  --c-10: #005ab4;
+  --c-11: #fff;
+  --c-12: #f2610d; /* old color: #ff5e00 */
+  --c-13: #fff;
+  --c-14: #b5bec4;
+  --c-15: #fff;
+  --c-16: #48bb78;
+  --c-17: #d9e0e5;
+  --c-18: #9aa2a7;
+  --c-19: #bbb;
+  --c-20: #00000015;
+  --c-21: #00000025;
+  --c-22: #e4e8ea;
+  --c-23: #dadfe3;
+  --c-24: #e4e8ea;
+  --c-25: #b5bec4;
+  --g-01: linear-gradient(#63d4f3, #00b4eb);
+  --checkmark: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23fff' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3l6-6'/%3e%3c/svg%3e");
+}
+
+[theme="dark"] {
+  --c-01: #44474b;
+  --c-02: #fff;
+  --c-03: #fff;
+  --c-04: #e6d88e;
+  --c-05: #ddd;
+  --c-06: #aaa;
+  --c-07: #3b3f41;
+  --c-08: #33373b;
+  --c-09: #616367;
+  --c-10: #232527;
+  --c-11: #aaa;
+  --c-12: #d6570d;
+  --c-13: #56585d;
+  --c-14: #7d7f84;
+  --c-15: #ddd;
+  --c-16: #3ea065;
+  --c-17: #505458;
+  --c-18: #6e7174;
+  --c-19: #888;
+  --c-20: #00000040;
+  --c-21: #00000040;
+  --c-22: #232527;
+  --c-23: #232527;
+  --c-24: #2c2f31;
+  --c-25: #808185;
+  --g-01: #303133;
+  --checkmark: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3e%3cpath fill='none' stroke='%23444' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M6 10l3 3l6-6'/%3e%3c/svg%3e");
+}

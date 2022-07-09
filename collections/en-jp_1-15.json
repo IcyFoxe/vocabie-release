@@ -1,0 +1,126 @@
+{
+  "formatName": "dexie",
+  "formatVersion": 1,
+  "data": {
+    "databaseName": "Vocabie",
+    "databaseVersion": 1,
+    "tables": [
+      {
+        "name": "vocabie",
+        "schema": "++id,primary,secondary,note,learned",
+        "rowCount": 15
+      }
+    ],
+    "data": [{
+      "tableName": "vocabie",
+      "inbound": true,
+      "rows": [
+        {
+          "primary": "one",
+          "secondary": "一",
+          "note": "ichi",
+          "learned": 0,
+          "id": 1
+        },
+        {
+          "primary": "two",
+          "secondary": "二",
+          "note": "ni",
+          "learned": 0,
+          "id": 2
+        },
+        {
+          "primary": "three",
+          "secondary": "三",
+          "note": "san",
+          "learned": 0,
+          "id": 3
+        },
+        {
+          "primary": "four",
+          "secondary": "四",
+          "note": "yon / shi",
+          "learned": 0,
+          "id": 4
+        },
+        {
+          "primary": "five",
+          "secondary": "五",
+          "note": "go",
+          "learned": 0,
+          "id": 5
+        },
+        {
+          "primary": "six",
+          "secondary": "六",
+          "note": "roku",
+          "learned": 0,
+          "id": 6
+        },
+        {
+          "primary": "seven",
+          "secondary": "七",
+          "note": "nana / shichi",
+          "learned": 0,
+          "id": 7
+        },
+        {
+          "primary": "eight",
+          "secondary": "八",
+          "note": "hachi",
+          "learned": 0,
+          "id": 8
+        },
+        {
+          "primary": "nine",
+          "secondary": "九",
+          "note": "kyuu / ku",
+          "learned": 0,
+          "id": 9
+        },
+        {
+          "primary": "ten",
+          "secondary": "十",
+          "note": "juu",
+          "learned": 0,
+          "id": 10
+        },
+        {
+          "primary": "eleven",
+          "secondary": "十一",
+          "note": "juuichi",
+          "learned": 0,
+          "id": 11
+        },
+        {
+          "primary": "twelve",
+          "secondary": "十二",
+          "note": "juuni",
+          "learned": 0,
+          "id": 12
+        },
+        {
+          "primary": "thirteen",
+          "secondary": "十三",
+          "note": "juusan",
+          "learned": 0,
+          "id": 13
+        },
+        {
+          "primary": "fourteen",
+          "secondary": "十四",
+          "note": "juuyon",
+          "learned": 0,
+          "id": 14
+        },
+        {
+          "primary": "fifteen",
+          "secondary": "十五",
+          "note": "juugo",
+          "learned": 0,
+          "id": 15
+        }
+      ]
+    }]
+  }
+}

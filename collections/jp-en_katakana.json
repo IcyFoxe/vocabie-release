@@ -1,0 +1,518 @@
+{
+  "formatName": "dexie",
+  "formatVersion": 1,
+  "data": {
+    "databaseName": "Vocabie",
+    "databaseVersion": 1,
+    "tables": [
+      {
+        "name": "vocabie",
+        "schema": "++id,primary,secondary,note,learned",
+        "rowCount": 71
+      }
+    ],
+    "data": [{
+      "tableName": "vocabie",
+      "inbound": true,
+      "rows": [
+        {
+          "primary": "ア",
+          "secondary": "a",
+          "note": "",
+          "learned": 0,
+          "id": 1
+        },
+        {
+          "primary": "イ",
+          "secondary": "i",
+          "note": "",
+          "learned": 0,
+          "id": 2
+        },
+        {
+          "primary": "ウ",
+          "secondary": "u",
+          "note": "",
+          "learned": 0,
+          "id": 3
+        },
+        {
+          "primary": "エ",
+          "secondary": "e",
+          "note": "",
+          "learned": 0,
+          "id": 4
+        },
+        {
+          "primary": "オ",
+          "secondary": "o",
+          "note": "",
+          "learned": 0,
+          "id": 5
+        },
+        {
+          "primary": "カ",
+          "secondary": "ka",
+          "note": "",
+          "learned": 0,
+          "id": 6
+        },
+        {
+          "primary": "ガ",
+          "secondary": "ga",
+          "note": "",
+          "learned": 0,
+          "id": 7
+        },
+        {
+          "primary": "キ",
+          "secondary": "ki",
+          "note": "",
+          "learned": 0,
+          "id": 8
+        },
+        {
+          "primary": "ギ",
+          "secondary": "gi",
+          "note": "",
+          "learned": 0,
+          "id": 9
+        },
+        {
+          "primary": "ク",
+          "secondary": "ku",
+          "note": "",
+          "learned": 0,
+          "id": 10
+        },
+        {
+          "primary": "グ",
+          "secondary": "gu",
+          "note": "",
+          "learned": 0,
+          "id": 11
+        },
+        {
+          "primary": "ケ",
+          "secondary": "ke",
+          "note": "",
+          "learned": 0,
+          "id": 12
+        },
+        {
+          "primary": "ゲ",
+          "secondary": "ge",
+          "note": "",
+          "learned": 0,
+          "id": 13
+        },
+        {
+          "primary": "コ",
+          "secondary": "ko",
+          "note": "",
+          "learned": 0,
+          "id": 14
+        },
+        {
+          "primary": "ゴ",
+          "secondary": "go",
+          "note": "",
+          "learned": 0,
+          "id": 15
+        },
+        {
+          "primary": "サ",
+          "secondary": "sa",
+          "note": "",
+          "learned": 0,
+          "id": 16
+        },
+        {
+          "primary": "ザ",
+          "secondary": "za (dza)",
+          "note": "",
+          "learned": 0,
+          "id": 17
+        },
+        {
+          "primary": "シ",
+          "secondary": "shi (ši)",
+          "note": "",
+          "learned": 0,
+          "id": 18
+        },
+        {
+          "primary": "ジ",
+          "secondary": "ji (dži)",
+          "note": "",
+          "learned": 0,
+          "id": 19
+        },
+        {
+          "primary": "ス",
+          "secondary": "su",
+          "note": "",
+          "learned": 0,
+          "id": 20
+        },
+        {
+          "primary": "ズ",
+          "secondary": "zu (dzu)",
+          "note": "",
+          "learned": 0,
+          "id": 21
+        },
+        {
+          "primary": "セ",
+          "secondary": "se",
+          "note": "",
+          "learned": 0,
+          "id": 22
+        },
+        {
+          "primary": "ゼ",
+          "secondary": "ze (dze)",
+          "note": "",
+          "learned": 0,
+          "id": 23
+        },
+        {
+          "primary": "ソ",
+          "secondary": "so",
+          "note": "",
+          "learned": 0,
+          "id": 24
+        },
+        {
+          "primary": "ゾ",
+          "secondary": "zo (dzo)",
+          "note": "",
+          "learned": 0,
+          "id": 25
+        },
+        {
+          "primary": "タ",
+          "secondary": "ta",
+          "note": "",
+          "learned": 0,
+          "id": 26
+        },
+        {
+          "primary": "ダ",
+          "secondary": "da",
+          "note": "",
+          "learned": 0,
+          "id": 27
+        },
+        {
+          "primary": "チ",
+          "secondary": "chi (či)",
+          "note": "",
+          "learned": 0,
+          "id": 28
+        },
+        {
+          "primary": "ヂ",
+          "secondary": "ji (dži)",
+          "note": "",
+          "learned": 0,
+          "id": 29
+        },
+        {
+          "primary": "ツ",
+          "secondary": "tsu (cu)",
+          "note": "",
+          "learned": 0,
+          "id": 30
+        },
+        {
+          "primary": "ヅ",
+          "secondary": "zu (dzu)",
+          "note": "",
+          "learned": 0,
+          "id": 31
+        },
+        {
+          "primary": "テ",
+          "secondary": "te",
+          "note": "",
+          "learned": 0,
+          "id": 32
+        },
+        {
+          "primary": "デ",
+          "secondary": "de",
+          "note": "",
+          "learned": 0,
+          "id": 33
+        },
+        {
+          "primary": "ト",
+          "secondary": "to",
+          "note": "",
+          "learned": 0,
+          "id": 34
+        },
+        {
+          "primary": "ド",
+          "secondary": "do",
+          "note": "",
+          "learned": 0,
+          "id": 35
+        },
+        {
+          "primary": "ナ",
+          "secondary": "na",
+          "note": "",
+          "learned": 0,
+          "id": 36
+        },
+        {
+          "primary": "ニ",
+          "secondary": "ni",
+          "note": "",
+          "learned": 0,
+          "id": 37
+        },
+        {
+          "primary": "ヌ",
+          "secondary": "nu",
+          "note": "",
+          "learned": 0,
+          "id": 38
+        },
+        {
+          "primary": "ネ",
+          "secondary": "ne",
+          "note": "",
+          "learned": 0,
+          "id": 39
+        },
+        {
+          "primary": "ノ",
+          "secondary": "no",
+          "note": "",
+          "learned": 0,
+          "id": 40
+        },
+        {
+          "primary": "ハ",
+          "secondary": "ha",
+          "note": "",
+          "learned": 0,
+          "id": 41
+        },
+        {
+          "primary": "バ",
+          "secondary": "ba",
+          "note": "",
+          "learned": 0,
+          "id": 42
+        },
+        {
+          "primary": "パ",
+          "secondary": "pa",
+          "note": "",
+          "learned": 0,
+          "id": 43
+        },
+        {
+          "primary": "ヒ",
+          "secondary": "hi",
+          "note": "",
+          "learned": 0,
+          "id": 44
+        },
+        {
+          "primary": "ビ",
+          "secondary": "bi",
+          "note": "",
+          "learned": 0,
+          "id": 45
+        },
+        {
+          "primary": "ピ",
+          "secondary": "pi",
+          "note": "",
+          "learned": 0,
+          "id": 46
+        },
+        {
+          "primary": "フ",
+          "secondary": "fu",
+          "note": "",
+          "learned": 0,
+          "id": 47
+        },
+        {
+          "primary": "ブ",
+          "secondary": "bu",
+          "note": "",
+          "learned": 0,
+          "id": 48
+        },
+        {
+          "primary": "プ",
+          "secondary": "pu",
+          "note": "",
+          "learned": 0,
+          "id": 49
+        },
+        {
+          "primary": "ヘ",
+          "secondary": "he",
+          "note": "",
+          "learned": 0,
+          "id": 50
+        },
+        {
+          "primary": "ベ",
+          "secondary": "be",
+          "note": "",
+          "learned": 0,
+          "id": 51
+        },
+        {
+          "primary": "ペ",
+          "secondary": "pe",
+          "note": "",
+          "learned": 0,
+          "id": 52
+        },
+        {
+          "primary": "ホ",
+          "secondary": "ho",
+          "note": "",
+          "learned": 0,
+          "id": 53
+        },
+        {
+          "primary": "ボ",
+          "secondary": "bo",
+          "note": "",
+          "learned": 0,
+          "id": 54
+        },
+        {
+          "primary": "ポ",
+          "secondary": "po",
+          "note": "",
+          "learned": 0,
+          "id": 55
+        },
+        {
+          "primary": "マ",
+          "secondary": "ma",
+          "note": "",
+          "learned": 0,
+          "id": 56
+        },
+        {
+          "primary": "ミ",
+          "secondary": "mi",
+          "note": "",
+          "learned": 0,
+          "id": 57
+        },
+        {
+          "primary": "ム",
+          "secondary": "mu",
+          "note": "",
+          "learned": 0,
+          "id": 58
+        },
+        {
+          "primary": "メ",
+          "secondary": "me",
+          "note": "",
+          "learned": 0,
+          "id": 59
+        },
+        {
+          "primary": "モ",
+          "secondary": "mo",
+          "note": "",
+          "learned": 0,
+          "id": 60
+        },
+        {
+          "primary": "ラ",
+          "secondary": "ra",
+          "note": "",
+          "learned": 0,
+          "id": 61
+        },
+        {
+          "primary": "リ",
+          "secondary": "ri",
+          "note": "",
+          "learned": 0,
+          "id": 62
+        },
+        {
+          "primary": "ル",
+          "secondary": "ru",
+          "note": "",
+          "learned": 0,
+          "id": 63
+        },
+        {
+          "primary": "レ",
+          "secondary": "re",
+          "note": "",
+          "learned": 0,
+          "id": 64
+        },
+        {
+          "primary": "ロ",
+          "secondary": "ro",
+          "note": "",
+          "learned": 0,
+          "id": 65
+        },
+        {
+          "primary": "ヤ",
+          "secondary": "ya",
+          "note": "",
+          "learned": 0,
+          "id": 66
+        },
+        {
+          "primary": "ユ",
+          "secondary": "yu",
+          "note": "",
+          "learned": 0,
+          "id": 67
+        },
+        {
+          "primary": "ヨ",
+          "secondary": "yo",
+          "note": "",
+          "learned": 0,
+          "id": 68
+        },
+        {
+          "primary": "ワ",
+          "secondary": "wa",
+          "note": "",
+          "learned": 0,
+          "id": 69
+        },
+        {
+          "primary": "ヲ",
+          "secondary": "wo / o",
+          "note": "",
+          "learned": 0,
+          "id": 70
+        },
+        {
+          "primary": "ン",
+          "secondary": "n",
+          "note": "",
+          "learned": 0,
+          "id": 71
+        }
+      ]
+    }]
+  }
+}
